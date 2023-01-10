@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "365407766304",
+    "project_id": "vuyelwa-tutoring",
+    "storage_bucket": "vuyelwa-tutoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365407766304:android:5db8648b73b24534c9f945",
+        "android_client_info": {
+          "package_name": "com.vuyelwa.ms_vuyelwa_rabolila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365407766304-2ocksiijm46r0vmcqjbnduul1tjl1n08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdR5jRtKgiFAdejG29yIThrwF9FnCLW9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365407766304-2ocksiijm46r0vmcqjbnduul1tjl1n08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365407766304-dhqt5cgfh791bfmdssdkcgvbul5vm6k2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vuyelwa.msVuyelwaRabolila"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
